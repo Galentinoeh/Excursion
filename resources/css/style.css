@@ -1,0 +1,18 @@
+.verdana{font-family:verdana;}
+
+.center{text-align:center;}
+.right{text-align:right;}
+
+.header{font-size:50px;}
+.big{font-size: 42px;}
+.medium{font-size:21px;}
+.small{font-size:16px;}
+
+.heavy{font-weight:300;}
+.normal{font-weight:normal;}
+
+.aqua{color:Aquamarine;}
+.white{color:white;}
+.gray{color: gray;}
+
+.black-background{background-color:black;}
